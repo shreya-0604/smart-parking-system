@@ -35,11 +35,13 @@ The Smart Parking System is an Arduino-based solution that automates parking man
 - `simulation.png` → Circuit image  
 
 
+## 🌐 Website Files
+- index.html → Web interface  
+- style.css → Styling of webpage
+
 
 ## 📷 Project Output
 <img width="1920" height="1080" alt="simulation" src="https://github.com/user-attachments/assets/5907e38e-7219-4853-8300-cee4796c5d64" />
-
-
 
 
 ## 🚀 Future Scope
